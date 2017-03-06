@@ -25,12 +25,30 @@ body {
 .text-primary {
   color: green;
 }
+.contact-icons {
+  color: white !important;
+}
+.contact-text {
+  color: white;
+  font-size: 25px;
+  padding-left: 15px;
+}
+#main-whitepages {
+  width: 800px;
+}
+.img-browser {
+  border: solid;
+  border-width: 1px;
+  border-color: #777777;
+}
+#image-header {
+  margin: 0 !important;
+  font-size: 15px !important;
+  font-weight: bold !important;
+}
 p {
   font-size: 14px;
   line-height: 1.75;
-}
-.textbox-aboutme {
-  width: 400px;
 }
 p.large {
   font-size: 16px;
